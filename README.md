@@ -5,7 +5,7 @@ Desafio DIO de lógica de programação  — Calculadora de Partidas Rankeadas (
 
 # 🎮 Calculadora de Partidas Rankeadas 🏆
 
-### Um desafio de lógica de programação
+### Um desafio de lógica de programação em Python
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DIO](https://img.shields.io/badge/DIO-Digital%20Innovation%20One-FF4C00?style=for-the-badge&logoColor=white)
@@ -92,4 +92,4 @@ python calculadora_rankeada.py
 
 Este exercício deu continuidade à trilha de **Lógica de Programação** da [DIO (Digital Innovation One)](https://www.dio.me/), introduzindo um novo conceito fundamental: **funções**. Elas permitem organizar e reutilizar lógica, evitando repetição de código.
 
-> "Uma
+> "Uma função bem escrita é como uma receita: você a prepara uma vez e usa sempre que precisar." 🐍
