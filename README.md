@@ -90,6 +90,6 @@ python calculadora_rankeada.py
 
 ## 📚 Aprendizados
 
-Este exercício deu continuidade à trilha de **Lógica de Programação** da [DIO (Digital Innovation One)](https://www.dio.me/), introduzindo um novo conceito fundamental: **funções**. Elas permitem organizar e reutilizar lógica, evitando repetição de código.
+Este exercício deu continuidade à trilha de **Lógica de Programação** da [DIO (Digital Innovation One)](https://www.dio.me/), introduzindo um novo conceito fundamental: **funções**. Elas permitem organizar e reutilizar a lógica, evitando repetição de código.
 
 > "Uma função bem escrita é como uma receita: você a prepara uma vez e usa sempre que precisar." 🐍
