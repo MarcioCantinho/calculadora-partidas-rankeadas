@@ -48,7 +48,7 @@ Criar uma **função** que recebe como parâmetro a quantidade de **vitórias** 
 
 ## 🖥️ Como funciona
 
-O programa recebe a quantidade de vitórias e derrotas do jogador, calcula o saldo através de uma **função**, e essa mesma função aplica uma estrutura `if / elif / else` para retornar o nível correspondente. O resultado final é exibido assim:
+O programa recebe a quantidade de vitórias e derrotas do jogador, calcula o saldo através de uma **função**, e essa mesma função aplica uma estrutura `if / elif / else` para retornar o nível correspondente. O resultado final é exibido assim, como neste exemplo:
 
 ```
 O Herói tem de saldo de 50 está no nível de Prata
