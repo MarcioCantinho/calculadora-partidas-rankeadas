@@ -32,7 +32,7 @@ A linguagem escolhida por mim foi Python 🐍.
 
 ## 🧮 Objetivo do desafio
 
-Criar uma **função** que recebe como parâmetro a quantidade de **vitórias** e **derrotas** de um jogador, calcule o **saldo** (vitórias − derrotas) e retorne o **nível** correspondente, seguindo a tabela abaixo:
+Criar uma **função** que recebe como parâmetro a quantidade de **vitórias** e **derrotas** de um jogador, calcular o **saldo** (vitórias − derrotas) e retornar o **nível** correspondente, seguindo a tabela abaixo:
 
 | 🏅 Nível | Saldo necessário |
 |:---:|:---:|
